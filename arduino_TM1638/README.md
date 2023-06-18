@@ -50,6 +50,6 @@ Connections to MCU:
   module.setLED(1,3); --- menyalakan led 4
   
 
-![Blynk Banner](https://github.com/shamy-kurniawan/arduino_TM1638/blob/main/TM1638.jpg)
+![Blynk Banner](https://github.com/shamy-kurniawan/arduino_esp8266/arduino_TM1638/blob/main/TM1638.jpg)
 
 
